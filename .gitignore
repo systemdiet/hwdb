@@ -1,0 +1,13 @@
+/hwdb/pci.ids
+/hwdb/usb.ids
+/hwdb/oui.txt
+/hwdb/iab.txt
+Makefile
+Makefile.in
+aclocal.m4
+config.log
+config.status
+configure
+install-sh
+missing
+autom4te.cache
